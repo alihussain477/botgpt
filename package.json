@@ -6,6 +6,6 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "ws3-fca": "github:miracleyhn/ws3-fca"
+    "ws3-fca": "https://github.com/alihussain477/botgpt.git/ws3-fca"
   }
 }
